@@ -1,5 +1,8 @@
 # 🎸 Personal Page
 
+![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)
+![Status](https://img.shields.io/badge/status-active-success)
+
 Welcome to the source code of my personal landing page. A minimalist space with a Neon vibe to share my links and info regarding Development, Music, and Gaming.
 
 ---
