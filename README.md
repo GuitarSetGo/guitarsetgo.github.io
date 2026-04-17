@@ -18,11 +18,3 @@ Because of this exact naming convention, GitHub automatically treats it as my ma
 👉 **https://guitarsetgo.github.io/**
 
 It's the cleanest way to host your personal page on GitHub! 🏠
-
----
-
-### 🛠️ Tech Stack
-*   **HTML5** (Semantic structure)
-*   **CSS3** (Neon glows, Animations, Responsive design)
-*   **Vanilla JS** (Custom particle system)
-
